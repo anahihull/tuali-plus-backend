@@ -1,9 +1,12 @@
 {
   "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
     "axios": "^1.10.0",
     "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
-    "openai": "^5.3.0"
+    "openai": "^5.3.0",
+    "uuid": "^11.1.0"
   }
 }
